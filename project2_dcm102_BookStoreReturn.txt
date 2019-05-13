@@ -1,0 +1,35 @@
+The University Book Store, San Marcos, Texas 78666
+     RECEIPT #95, Sept. 17, 2017, 9:00 PM
+
+Customer Name: John M. Powell
+Customer Telephone Number: (512) 299-6732
+Customer Address:26 Pine Street, San Marcos, TX, 78666
+
+Book Number: AB5326
+Book Title: War and Peace 
+Book Author: Leo Tolstoy 
+Aisle Number: 12 
+Price of the Book: $95.82
+Cost Discount: $4.79
+
+Book Number: CF9654 
+Book Title: Starting Out with C++ 
+Book Author: Tony Gaddis 
+Aisle Number: 15 
+Price of the Book: $82.78
+Cost Discount: $4.79
+
+Book Number:            GM4378
+Book Title:             Artificial Intelligence 
+Book Author:            Stuart Russell
+Aisle Number:           21
+Price of the Book:$     102.72
+Cost Discount:$         5.14
+
+Sub Total of Three Books:$281.32
+Total Discount:$        9.93
+Subtotal after Discount:$276.53
+Sales Tax Amount:$      22.12
+Total Amount Paid:$     298.65
+
+Thank you for shopping at The University Book Store
