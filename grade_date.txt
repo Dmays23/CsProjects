@@ -1,0 +1,9 @@
+line 1:  the key for the exam
+
+bccbbadbca
+
+lines 2-n:
+
+bccbbbdbbb
+bccbbadbca
+bccbbadbbb
